@@ -15,3 +15,8 @@ docker run app $ARG
 
 Where $ARG represents the required rover input for an arbitrary N amount of rovers as demonstrated below:
 ![output](./images/output.png)
+
+For those with cargo, you may also run unit tests via:
+```
+cargo test
+```
